@@ -1,7 +1,6 @@
 # Introduction to Data Analytics 
 
 ## What is Data Analytics?
-
 - Data Analytics is the "Science of data".
 
 ## What is Data?
